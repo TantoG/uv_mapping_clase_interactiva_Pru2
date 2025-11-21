@@ -1,0 +1,5 @@
+{
+  "name": "UV Master Class",
+  "description": "Educational tool for visualizing 3D UV mapping projections (Planar, Box, Spherical, Cylindrical) on different geometries.",
+  "requestFramePermissions": []
+}
